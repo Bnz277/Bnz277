@@ -54,21 +54,13 @@
 
 ### 技能展示 🛠️
 
-#### 编程技能 🧑‍💻
-<div style="display: flex; gap: 10px;">
-  <div>
-    <strong>Python</strong>
-    <progress value="0" max="100"></progress>
-  </div>
-  <div>
-    <strong>HTML</strong>
-    <progress value="0" max="100"></progress>
-  </div>
-  <div>
-    <strong>JAVA</strong>
-    <progress value="0" max="100"></progress>
-  </div>
-</div>
+### 编程技能 🧑‍💻
+
+| 技能   | 熟练度 |
+|--------|--------|
+| Python | ▱▱▱▱▱▱▱▱▱▱ (0%) |
+| HTML   | ▱▱▱▱▱▱▱▱▱▱ (0%) |
+| JAVA   | ▱▱▱▱▱▱▱▱▱▱ (0%) |
 
 ---
 
