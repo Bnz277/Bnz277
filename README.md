@@ -46,6 +46,8 @@
 - **[League Of Legends](https://www.leagueoflegends.com/en-us/)**：个人的实力与团队的配合 🤝
 - **[QQ Speed](https://speedm.qq.com/main.shtml)**：极速与巅峰的竞技 ⚡
 
+![Bnz277仓库图片](Picture/Minecraft.jpg)
+
 #### 生活态度 🌱
 
 ###### “日子如溪水般流过，但每一滴都映照着阳光。”
