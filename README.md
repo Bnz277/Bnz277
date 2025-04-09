@@ -17,6 +17,22 @@
 
 ---
 
+### 已开源项目 🚀
+
+<details open>
+  <summary><strong>点击展开/收起</strong> ✨</summary>
+
+| 项目                                                          | 更新状态    |
+|-------------------------------------------------------------|---------|
+| [**数字图像处理**](https://github.com/Bnz277/School/tree/数字图像处理)  | 正在更新    |
+| [**大学期间乱七八糟的文件**](https://github.com/Bnz277/School/tree/其他) | 随缘更新    |
+| [**Python**](https://github.com/Bnz277/School/tree/Python)  | 　~~结项~~ |
+| [**单片机**](https://github.com/Bnz277/School/tree/单片机)        | 　~~结项~~ |
+
+</details>
+
+---
+
 ### 关于我 😊
 
 <details open>
@@ -35,12 +51,12 @@
   - **前端开发**：HTML、CSS、JavaScript *(会的不多)*
   - **正在学习**：VUE *(大饼)*
 
-#### 文艺生活 📚🌟
+#### 文艺生活 📚
 
 - 阅读：尤其钟情于散文。
 - 写作：偶尔挥笔写下内心的诗意与哲思。
 
-### 游戏世界 🎮🚀
+### 游戏世界 🎮
 
 - **[Minecraft](https://www.minecraft.net)**：无限创造的沙盒乐园 🎲
 - **[League Of Legends](https://www.leagueoflegends.com/en-us/)**：个人的实力与团队的配合 🤝
