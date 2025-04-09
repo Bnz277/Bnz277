@@ -1,8 +1,8 @@
 # 宁静与美好在此等候 🍵
 
-![Bnz277仓库图片](Picture/Background.jpg)
+![加载图片](Picture/Background.jpg)
 
-## 我是 [一只喵°](https://github.com/Bnz277) 🌳
+## 我是 [LuvGaze°](https://github.com/LuvGaze) 🌳
 
 > 一名热爱生活、探索音乐与艺术的爱好者。
 
@@ -24,10 +24,10 @@
 
 | 项目                                                          | 更新状态    |
 |-------------------------------------------------------------|---------|
-| [**数字图像处理**](https://github.com/Bnz277/School/tree/数字图像处理)  | 正在更新    |
-| [**大学期间乱七八糟的文件**](https://github.com/Bnz277/School/tree/其他) | 随缘更新    |
-| [**Python**](https://github.com/Bnz277/School/tree/Python)  | 　~~结项~~ |
-| [**单片机**](https://github.com/Bnz277/School/tree/单片机)        | 　~~结项~~ |
+| [**数字图像处理**](https://github.com/LuvGaze/School/tree/数字图像处理)  | 正在更新    |
+| [**大学期间乱七八糟的文件**](https://github.com/LuvGaze/School/tree/其他) | 随缘更新    |
+| [**Python**](https://github.com/LuvGaze/School/tree/Python)  | 　~~结项~~ |
+| [**单片机**](https://github.com/LuvGaze/School/tree/单片机)        | 　~~结项~~ |
 
 </details>
 
@@ -51,18 +51,16 @@
   - **前端开发**：HTML、CSS、JavaScript *(会的不多)*
   - **正在学习**：VUE *(大饼)*
 
-#### 文艺生活 📚
+#### 文艺生活 📚🌟
 
 - 阅读：尤其钟情于散文。
 - 写作：偶尔挥笔写下内心的诗意与哲思。
 
-### 游戏世界 🎮
+### 游戏世界 🎮🚀
 
 - **[Minecraft](https://www.minecraft.net)**：无限创造的沙盒乐园 🎲
 - **[League Of Legends](https://www.leagueoflegends.com/en-us/)**：个人的实力与团队的配合 🤝
 - **[QQ Speed](https://speedm.qq.com/main.shtml)**：极速与巅峰的竞技 ⚡
-
-![Bnz277仓库图片](Picture/Minecraft.jpg)
 
 #### 生活态度 🌱
 
@@ -107,7 +105,7 @@
 > - **邮箱**：[Bnz277@outlook.com](mailto:Bnz277@outlook.com)
 > - **社交媒体**：
   [QQ](https://user.qzone.qq.com/2773434682) |
-  [GitHub](https://github.com/Bnz277) |
+  [GitHub](https://github.com/LuvGaze) |
   [B站](https://space.bilibili.com/473335461)
 
 ---
@@ -118,6 +116,6 @@
 
 ---
 
-![Bnz277仓库图片](Picture/三团.gif)
+![加载图片](Picture/三团.gif)
 
 ---
