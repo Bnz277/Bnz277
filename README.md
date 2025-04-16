@@ -29,8 +29,8 @@
 
 ---
 [//]: 全局展开/收起　　　开始
-<details>
-  <summary style="font-size: 17px; font-weight: bold;">点击展开/收起 ✨</summary>
+<details open>
+  <summary><strong>点击展开/收起</strong> ✨</summary>
 
 ### 📚 已开源项目 
 
@@ -158,14 +158,6 @@ Web 前端          [░░░░░░░░░░] 00%
 > 在忙碌的生活里找到片刻宁静与共鸣！
 
 ![加载图片](Picture/三团.gif)
-
-</div>
-
----
-
-<div align="center">
-
-![LuvGaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuvGaze&show_icons=true&theme=radical)
 
 </div>
 
