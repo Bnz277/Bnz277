@@ -96,9 +96,9 @@
 #### 🎮 游戏世界
 | 游戏 | 技能水平 | 游戏时长 |
 |------|----------|----------|
-| [Minecraft](https://www.minecraft.net) | 🌟🌟🌟🌟 | 1000+ 小时 |
-| [英雄联盟](https://www.leagueoflegends.com) | 🌟🌟🌟 | 500+ 小时 |
-| [QQ飞车](https://speedm.qq.com) | 🌟🌟🌟🌟🌟 | 2000+ 小时 |
+| [Minecraft](https://www.minecraft.net) | 🌟🌟🌟🌟🌟 |
+| [英雄联盟](https://www.leagueoflegends.com) | 🌟🌟🌟🌟|
+| [QQ飞车](https://speedm.qq.com) | 🌟🌟🌟🌟🌟 |
 
 </details>
 
