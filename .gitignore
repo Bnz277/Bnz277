@@ -2,7 +2,7 @@
 /.idea/
 
 # 忽略 Python 虚拟环境
-.venv/
+/.venv/
 
 # 忽略操作系统生成的文件
 /.gitignore/
