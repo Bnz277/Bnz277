@@ -29,7 +29,7 @@
 
 ---
 [//]: 全局展开/收起　　　开始
-<details open>
+<details>
   <summary><strong>点击展开/收起</strong> ✨</summary>
 
 ### 📚 已开源项目 
