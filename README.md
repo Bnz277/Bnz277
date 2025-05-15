@@ -142,9 +142,10 @@ Web 前端          [░░░░░░░░░░] 00%
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Bnz277%40outlook.com-blue?style=flat-square&logo=microsoft-outlook)](mailto:Bnz277@outlook.com)
-[![QQ](https://img.shields.io/badge/QQ-点击联系-green?style=flat-square&logo=tencent-qq)](https://user.qzone.qq.com/2773434682)
 [![GitHub](https://img.shields.io/badge/GitHub-LuvGaze-black?style=flat-square&logo=github)](https://github.com/LuvGaze)
-[![Bilibili](https://img.shields.io/badge/Bilibili-B站空间-pink?style=flat-square&logo=bilibili)](https://space.bilibili.com/473335461)
+[![Organizations](https://img.shields.io/badge/Github-组织-pink?style=flat-square&logo=github)](https://github.com/LuvGazeiQQ)
+[![QQ](https://img.shields.io/badge/QQ-联系-green?style=flat-square&logo=tencent-qq)](https://user.qzone.qq.com/2773434682)
+[![Bilibili](https://img.shields.io/badge/Bilibili-B站-pink?style=flat-square&logo=bilibili)](https://space.bilibili.com/473335461)
 
 </div>
 
